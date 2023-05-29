@@ -1,0 +1,10 @@
+Liste al menos 3 medios (a nivel de software) por los que se puede establecer comunicaciones para las aplicaciones en tiempo real,ponga una breve explicación de cada uno de ellos.
+
+WebSockets:
+Los WebSockets son un protocolo de comunicación bidireccional que permite la comunicación en tiempo real entre un navegador web y un servidor. Proporciona una conexión persistente y de baja latencia, lo que permite la transmisión instantánea de datos entre el cliente y el servidor. Los WebSockets son ampliamente utilizados en aplicaciones web en tiempo real, como chats en vivo, juegos en línea y aplicaciones de colaboración.
+
+MQTT (Message Queuing Telemetry Transport):
+MQTT es un protocolo de mensajería ligero diseñado para enviar mensajes en tiempo real a través de redes de baja potencia y ancho de banda limitado. Es especialmente adecuado para aplicaciones de Internet de las cosas (IoT) y se utiliza ampliamente en escenarios donde los dispositivos necesitan enviar y recibir datos en tiempo real con un consumo de energía y ancho de banda mínimo. MQTT se basa en el modelo publicar/suscribir, donde los clientes se suscriben a determinados temas y reciben mensajes publicados en esos temas.
+
+Real-Time Messaging Protocol (RTMP):
+RTMP es un protocolo de transmisión en tiempo real utilizado principalmente para la transmisión de audio, video y datos entre un servidor y un reproductor multimedia. Es ampliamente utilizado en aplicaciones de transmisión en vivo, como plataformas de videojuegos en línea y servicios de transmisión de video. RTMP permite una comunicación bidireccional y proporciona una baja latencia, lo que es esencial para la transmisión en tiempo real.
